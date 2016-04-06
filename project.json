@@ -1,20 +1,20 @@
 {
   "s3": {
     "stage": {
-      "bucket": "apps-stage.seattletimesdata.com",
-      "path": "sports-slider"
+      "bucket": "projects-staging.seattletimes.com",
+      "path": "quasi-quasimodo"
     },
     "live": {
       "bucket": "projects.seattletimes.com",
       "path": "2016/sports/uw-2016-final-four-run"
     }
   },
-  "title": "",
-  "description": "",
+  "title": "A look back: UW Huskies' 2016 Final Four run",
+  "description": "It was a season of firsts for the Washington women's basketball team. Here's a look back at the Huskies' magical season and their journey to the NCAA Final Four.",
   "url": "http://projects.seattletimes.com/2016/sports/uw-2016-final-four-run/",
   "slug": "",
   "tags": ["interactive", "parallax"],
-  "image": "",
-  "production": false,
+  "image": "assets/uwsocial01.jpg",
+  "production": true,
   "sheets": ["12QKHb1UCe8azYC9IdGmEoBx7uGMP6nEM-fby4jak7os"]
 }
